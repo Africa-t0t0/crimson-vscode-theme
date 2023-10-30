@@ -3,14 +3,6 @@
 	"displayName": "Crimson Theme",
 	"version": "1.0.1",
 	"type": "dark",
-	"publisher": "Crimson-Theme",
-	"repository": {
-		"type": "git",
-		"url": ""
-	},
-	"engines": {
-	  "vscode": "^1.60.0"
-	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
