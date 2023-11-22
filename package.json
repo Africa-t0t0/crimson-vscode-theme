@@ -2,7 +2,7 @@
   "name": "Crimson-Theme",
   "displayName": "Crimson Theme VS",
   "description": "Crimson color theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "Crimson-Theme",
   "repository": {
 		"type": "git",
